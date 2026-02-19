@@ -1,4 +1,6 @@
 # Rock vs Mine Prediction ML for Naval Operations
+<img width="1536" height="1024" alt="Copilot_20260219_101226" src="https://github.com/user-attachments/assets/75bb841e-2b26-48fc-a37d-3c7d6001bbb5" />
+
 
 ## Project Overview
 A machine learning-based system for distinguishing between rocks and naval mines using sonar signal patterns. This project leverages **Supervised Machine Learning** algorithms to provide accurate predictions and help in underwater object detection, supporting naval operations and maritime safety.
@@ -38,3 +40,9 @@ Deploy this model in naval and commercial maritime operations to:
 - **Support autonomous systems** by integrating with unmanned underwater vehicles (UUVs) for mine countermeasure operations
 
 **Next Steps**: Improve accuracy to 85%+ using ensemble methods (Random Forest, Gradient Boosting), expand dataset with diverse ocean floor conditions, and validate with real-world naval sonar systems for operational deployment.
+
+### Let’s Connect:
+If you’re interested in collaborating, discussing my work, or just connecting on data science, feel free to reach out!
+
+- **Email:** poisedconsult@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/babatunde-joel-etu/
