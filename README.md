@@ -1,9 +1,9 @@
-# Rock vs Mine Prediction ML for Military
+# Rock vs Mine Prediction ML for Naval Operations
 
 ## Project Overview
 A machine learning-based system for distinguishing between rocks and naval mines using sonar signal patterns. This project leverages **Supervised Machine Learning** algorithms to provide accurate predictions and help in underwater object detection, supporting naval operations and maritime safety.
 
-Indusrty: Military
+Indusrty: Navy/Maritime
 
 ## Executive Summary
 Developed a binary classification model using Logistic Regression to identify underwater objects as rocks or mines with **76% accuracy** on test data. The model analyzes 60 sonar frequency readings to distinguish between geological formations and explosive devices, critical for naval mine detection and maritime security operations.
